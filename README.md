@@ -11,12 +11,12 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |       Nirupama Mahesh                  |                        |     Female            |                                 |  
-|    Member 2     |         Janastuthy V                |                        |      Female           |                                 |  
-|    Member 3     |         Vani Sreeram                |                        |       Female          |                                 |  
-|    Member 4     |      Niveditha Rajmohan                   |                        |        Female         |                                 |   
-|    Member 5     |          Gayatri Krishnan               |                        |          Female       |                                 |  
-|    Member 6     |          Haripriya Harish               |                        |     Female      |                                 |   
+|   Team Leader   |       Nirupama Mahesh                  |   cb.en.u4che26122                     |     Female            |    B.Tech Chemical Engineering                             |  
+|    Member 2     |         Janastuthy V                |   cb.en.u4che26021                     |      Female           |   B.Tech Chemical Engineering                              |  
+|    Member 3     |         Vani Sreeram                | cb.en.u4eee261444                       |       Female          |       B.Tech Electrical ad Electronics Engineering                          |  
+|    Member 4     |      Niveditha Rajmohan                   |   cb.en.u4che26016                     |        Female         |    B.Tech Chemical Engineering                             |   
+|    Member 5     |          Gayatri Krishnan               |      cb.en.u4che26019                  |          Female       |   B.Tech Chemical Engineering                              |  
+|    Member 6     |          Haripriya Harish               |  cb.en.u4ce26109                      |     Female      |           B.Tech Chemical Engineering                      |   
 
 #### Mentor Details
 
@@ -31,14 +31,14 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:** SIH26093
+* **Problem Statement Title:** AI-Based Real-Time Stress and Trauma Assessment Module for Victims/Complainants Accessing NHAA (14566) and Integrated Portal
+* **Theme / Category:** MedTech / BioTech / HealthTech - SOFTWARE
+* **Ministry / Organization:** Ministry of Social Justice and Empowerment (MoSJE)
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:** 26095
+* **Problem Statement Title:** Smart Real-Time Monitoring & Inspection Mobile App
+* **Theme / Category:** Smart Automation - SOFTWARE
+* **Ministry / Organization:** Ministry of Social Justice and Empowerment (MoSJE)
