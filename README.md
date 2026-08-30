@@ -5,18 +5,18 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T107
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<JARVIS>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |       Nirupama Mahesh                  |                        |     Female            |                                 |  
+|    Member 2     |         Janastuthy V                |                        |      Female           |                                 |  
+|    Member 3     |         Vani Sreeram                |                        |       Female          |                                 |  
+|    Member 4     |      Niveditha Rajmohan                   |                        |        Female         |                                 |   
+|    Member 5     |          Gayatri Krishnan               |                        |          Female       |                                 |  
+|    Member 6     |          Haripriya Harish               |                        |     Female      |                                 |   
 
 #### Mentor Details
 
